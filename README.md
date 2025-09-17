@@ -10,7 +10,7 @@ Welcome to the SpongeBob Tower Defense Wiki! Discover the latest game codes, cha
 ## 🧙‍♂️ Units
 - SpongeBob — DMG - 391 SPA - 2 RNG - 10
 - Patrick — DMG - 75 SPA - 2 RNG - 13
-- Gary - DMG - 195 SPA - 2.5 RNG - 8  Effect on Mobs ##SLOW
+- Gary - DMG - 195 SPA - 2.5 RNG - 8  -Effect on Mobs slow
 
 
 
