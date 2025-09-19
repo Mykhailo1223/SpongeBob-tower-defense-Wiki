@@ -19,11 +19,14 @@ input("Натисни Enter, щоб закрити...")
 - SpongeBob — DMG - 391 SPA - 2 RNG - 10
 - Patrick — DMG - 75 SPA - 2 RNG - 13
 - Gary - DMG - 195 SPA - 2.5 RNG - 8  - Give effect on Mobs slow
-
-
-
-
-
+- Sandy — DMG - 95 SPA - 1.5 RNG - 8
+- Squidward — DMG - 280 SPA - 2.5 RNG - 9
+- Barnacle Boy Patrick — DMG - 125 SPA - 2.5 RNG - 12
+- Gene Scallop — DMG - 70 SPA - 2 RNG - 10
+- Jim — DMG - 250 SPA - 2.8 RNG - 14
+- Bubble Bass — DMG - 240 SPA - 1.5 RNG - 14 
+- Goofy Goober Waiter — DMG - 85 SPA - 2 RNG - 12
+- Barnacle Boy — DMG - 321 SPA - 1.5 RNG - 12
 
   ## 📦 Chests 
 - Mythic Chest — містить рідкісні предмети
