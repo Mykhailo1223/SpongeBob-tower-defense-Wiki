@@ -3,13 +3,6 @@ Welcome to the SpongeBob Tower Defense Wiki! Discover the latest game codes, cha
 
 # SpongeBob Tower Defense Wiki
 
-[Uploadingdef spongebob_welcome():
-    print("Привіт із Бікіні Боттом! 🎉 Цей код абсолютно безтурботний, як Патрік на канікулах.")
-
-spongebob_welcome()
-input("Натисни Enter, щоб закрити...")
-
- spougebob.py…]()
 
 ## 🎮 Code
 - `THANKYOU2025` — безкоштовні нагороди
@@ -27,6 +20,25 @@ input("Натисни Enter, щоб закрити...")
 - Bubble Bass — DMG - 240 SPA - 1.5 RNG - 14 
 - Goofy Goober Waiter — DMG - 85 SPA - 2 RNG - 12
 - Barnacle Boy — DMG - 321 SPA - 1.5 RNG - 12
+- Scoutmaster Mrs. Puff — DMG - 800 SPA - 2.5 RNG - 14
+- Karate Sandy — DMG - 880 SPA - 1.8 RNG - 12
+- Grandma Square Pants — DMG - 500 SPA - 1.2 RNG - 14
+- Kevin C. Cucumber — DMG - 780 SPA - 2 RNG - 13
+- Pearl — DMG - 440 SPA - 3 RNG - 14
+- Kamp Counselor Squidward — DMG - 1125 SPA - 1.3 RNG - 20
+- Mrs. Puff — DMG - 900 SPA - 2 RNG - 12
+- Slappy Laszlo — DMG - 750 SPA - 2.5 RNG - 12 -Give effect on Mobs slow
+- Krusty Krab - Give Gold - 180
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
 
   ## 📦 Chests 
 - Mythic Chest — містить рідкісні предмети
