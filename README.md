@@ -71,9 +71,15 @@ Welcome to the SpongeBob Tower Defense Wiki! Discover the latest game codes, cha
 - Dirty Dan — DMG - 1800 SPA - 1.5 RNG - 17
 - Band Geek Mrs. Puff — DMG - 3650 SPA - 1.9 RNG - 26
 - Kelpy G — DMG - 10925 SPA - 1.5 RNG - 26
-- 
-- 
-- 
+- Tattletale Strangler - DMG - 1920 SPA - 2 RNG - 20
+- Tiff — DMG - 1150 SPA - 2 RNG - 18
+- Realistic Fish Head — DMG - 1365 SPA - 1.8 RNG - 18
+- Sea Rhino — DMG - 3750 SPA - 1.8 RNG - 28
+- Man Ray - DMG - 4725 SPA - 0,5 RNG - 20
+- Pinhead larry DMG - 3000 SPA - 1,8 RNG - 16
+- The Quickster DMG - 696 SPA - 1,5 RNG - 16
+- Squgog DMG - 10000 SPA - 2 RNG - 5
+- Smitty WerBenJagerManJensen DMG - 1480 SPA - 1,8 RNG - 17
 - 
 - 
   ## 📦 Chests 
